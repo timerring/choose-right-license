@@ -113,29 +113,29 @@ The common terms are:
 
 And hereby you can combine them in some order. The concrete licenses are:
 
-### CC BY[^CC BY]
+### CC BY[^CC-BY]
 
-[^CC BY]: https://creativecommons.org/licenses/by/4.0/
+[^CC-BY]: https://creativecommons.org/licenses/by/4.0/
 
-### CC BY-SA[^CC BY-SA]
+### CC BY-SA[^CC-BY-SA]
 
-[^CC BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
+[^CC-BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
 
-### CC BY-NC[^CC BY-NC]
+### CC BY-NC[^CC-BY-NC]
 
-[^CC BY-NC]: https://creativecommons.org/licenses/by-nc/4.0/
+[^CC-BY-NC]: https://creativecommons.org/licenses/by-nc/4.0/
 
-### CC BY-NC-SA[^CC BY-NC-SA]
+### CC BY-NC-SA[^CC-BY-NC-SA]
 
-[^CC BY-NC-SA]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[^CC-BY-NC-SA]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-### CC BY-ND[^CC BY-ND]
+### CC BY-ND[^CC-BY-ND]
 
-[^CC BY-ND]: https://creativecommons.org/licenses/by-nd/4.0/
+[^CC-BY-ND]: https://creativecommons.org/licenses/by-nd/4.0/
 
-### CC BY-NC-ND[^CC BY-NC-ND]
+### CC BY-NC-ND[^CC-BY-NC-ND]
 
-[^CC BY-NC-ND]: https://creativecommons.org/licenses/by-nc-nd/4.0/
+[^CC-BY-NC-ND]: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ### CC0(zero)[^CC0]
 
