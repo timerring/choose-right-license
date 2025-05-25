@@ -100,3 +100,49 @@ MIT License is the most popular and widely used license, which is really loose c
 In order to help you choose the right license easily, I made a simple website to help you choose exactly the license you need.
 
 [license.timerring.com](https://license.timerring.com)
+
+## Types of Creative Commons License
+
+Creative Commons licenses give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law.
+
+The common terms are:
+- BY: credit must be given to the creator.
+- SA: **Adaptations** must be **shared** under the same terms.
+- NC: Only **noncommercial** uses of the work are permitted.
+- ND: **No derivatives** or adaptations of the work are permitted.
+
+And hereby you can combine them in some order. The concrete licenses are:
+
+### CC BY[^CC BY]
+
+[^CC BY]: https://creativecommons.org/licenses/by/4.0/
+
+### CC BY-SA[^CC BY-SA]
+
+[^CC BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
+
+### CC BY-NC[^CC BY-NC]
+
+[^CC BY-NC]: https://creativecommons.org/licenses/by-nc/4.0/
+
+### CC BY-NC-SA[^CC BY-NC-SA]
+
+[^CC BY-NC-SA]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+### CC BY-ND[^CC BY-ND]
+
+[^CC BY-ND]: https://creativecommons.org/licenses/by-nd/4.0/
+
+### CC BY-NC-ND[^CC BY-NC-ND]
+
+[^CC BY-NC-ND]: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+### CC0(zero)[^CC0]
+
+[^CC0]: https://creativecommons.org/publicdomain/zero/1.0/
+
+CC0 (aka CC Zero) is a public dedication tool, which enables creators to give up their copyright and put their works into the worldwide public domain. CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.
+
+## How to choose the right license
+
+Also, you can choose the license by yourself on the official website: https://creativecommons.org/chooser/
